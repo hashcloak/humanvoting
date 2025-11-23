@@ -29,5 +29,5 @@ PriVote has two user-friendly steps:
 
 1. Register: The user scans a QR code with ZKPassport to validate that he/she has a valid passport. Then the voting
    interface is enabled in case that the user is validated correctly and he/she has not voted before.
-2. Vote: The user chooses its candidate and submits his/her vote anonymously.
+2. Vote: The user chooses his/her candidate and submits his/her vote anonymously.
 
